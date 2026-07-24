@@ -1,7 +1,7 @@
 import threading
 import os
 from tkinter import messagebox
-from model import MouseTracker
+from src.model.tracker import MouseTracker
 
 class TrackerController:
     """

@@ -1,5 +1,5 @@
-from src.view import TrackerView
-from src.controller import TrackerController
+from src.view.ui import TrackerView
+from src.controller.control import TrackerController
 
 def main():
     """
