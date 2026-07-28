@@ -3,3 +3,4 @@ __pycache__/
 *.py[cod]
 best-param-so-far.png
 img/
+package.txt
